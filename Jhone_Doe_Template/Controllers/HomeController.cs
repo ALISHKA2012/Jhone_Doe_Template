@@ -33,5 +33,9 @@ namespace Jhone_Doe_Template.Controllers
         {
             return View();
         }
+        public ActionResult Game()
+        {
+            return View();
+        }
     }
 }
